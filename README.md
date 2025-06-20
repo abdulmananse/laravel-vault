@@ -11,7 +11,7 @@ This is a wrapper around https://github.com/jippi/vault-php-sdk.
 ### Add the package via composer
 
 ```
-composer require tokenly/laravel-vault
+composer require abdulmananse/laravel-vault
 ```
 
 ## Usage with Laravel
